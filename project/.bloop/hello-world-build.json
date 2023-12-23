@@ -212,7 +212,7 @@
         "platform": {
             "name": "jvm",
             "config": {
-                "home": "/usr/local/Cellar/openjdk/21.0.1/libexec/openjdk.jdk/Contents/Home",
+                "home": "/Users/Kim/Library/Java/JavaVirtualMachines/corretto-17.0.9/Contents/Home",
                 "options": [
                     "-Duser.dir=/Users/Kim/Documents/GitHub/hello-world/project"
                 ]
@@ -221,7 +221,7 @@
                 
             ],
             "runtimeConfig": {
-                "home": "/usr/local/Cellar/openjdk/21.0.1/libexec/openjdk.jdk/Contents/Home",
+                "home": "/Users/Kim/Library/Java/JavaVirtualMachines/corretto-17.0.9/Contents/Home",
                 "options": [
                     "-Duser.dir=/Users/Kim/Documents/GitHub/hello-world/project"
                 ]

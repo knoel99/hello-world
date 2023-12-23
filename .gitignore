@@ -21,3 +21,7 @@ ivy2/
 # Operating System specific
 .DS_Store
 Thumbs.db
+
+.bloop/
+./metals/
+project/
