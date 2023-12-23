@@ -1,0 +1,23 @@
+# Scala/SBT specific
+target/
+project/target/
+project/project/
+*.iml
+*.iws
+.idea/
+*.class
+
+# Build tool specific
+.sbtserver/
+.sbt/
+
+# Dependency directories
+lib_managed/
+ivy2/
+
+# Editor specific
+.vscode/
+
+# Operating System specific
+.DS_Store
+Thumbs.db
