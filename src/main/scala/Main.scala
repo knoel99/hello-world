@@ -1,3 +1,4 @@
 object Main extends App {
-  println("Hello, World!")
+  val service = new Service()
+  service.start()
 }
